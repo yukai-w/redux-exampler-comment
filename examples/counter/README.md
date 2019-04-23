@@ -1,6 +1,10 @@
 # Redux Counter Example
 
+# Redux 计数器示例
+
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
+
+这个项目的脚手架是通过[Create React App](https://github.com/facebookincubator/create-react-app)来创建的，它提供了一个简单的方法来启动 React 项目而无需构建配置。
 
 Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX. See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
 
